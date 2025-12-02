@@ -19,3 +19,4 @@ This is a simple Vue.js application that displays a list of Chuck Norris jokes. 
     npm run dev
     ```
 # activity12
+# activity12
